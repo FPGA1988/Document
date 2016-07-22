@@ -12,9 +12,16 @@
 ***
 #更新记录
 ***
+**更新记录按照目录的字母[A-Z]顺序进行排序**
 
-* 2016-07-22 更新verilog ieee std 1364-2005 pdf
-* 2016-07-22 添加了VHDL ieee std 1076-2000  pdf
+|日期|共享人|路径|
+|------------|---------|---------------------------------------------------|
+| 2016-07-22 |薛定谔的猫|Ebook/System/RAPIDIO嵌入式系统互联(美) SAM FULLER著...|
+| 2016-07-22 |心动` |FPGA/Xilinx/The_Zynq_Book_ebook_chinese.pdf|
+| 2016-07-22 |DTFT&FFT|FPGA/Altera/Altera系列FPGA芯片IP核详解 高清版.pdf |
+| 2016-07-22 |离场悲剧 |Language/IEEE std 1364-verilog-2005.pdf|
+| 2016-07-22 |离场悲剧 |Language/VHDLReference_IEEE1076.pdf|
+
 
 ***
 #其他 
