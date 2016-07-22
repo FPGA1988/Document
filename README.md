@@ -1,6 +1,6 @@
 #Document Readme
 ***
-此Repositor主要是用于共享常用文档，包括以下内容 : 
+此Repository主要是用于共享常用文档，包括以下内容 : 
 
 * 常用芯片数据手册
 * 常用语法标准文档
@@ -14,6 +14,7 @@
 ***
 
 * 2016-07-22 更新verilog ieee std 1364-2005 pdf
+* 2016-07-22 添加了VHDL ieee std 1076-2000  pdf
 
 ***
 #其他 
